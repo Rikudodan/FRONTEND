@@ -1,0 +1,19 @@
+/* Estilos para el encabezado */
+header {
+  background-color: #343a40; /* Color de fondo */
+  color: #fff; /* Color del texto */
+  padding: -9px 0; /* Espaciado interno */
+}
+
+header nav a {
+  color: #fff; /* Color del texto de los enlaces */
+}
+
+/* Estilos para el fondo del cuerpo */
+body {
+  background-image: url("imagenes/fondoweb3.jpg");
+  background-size: cover; /* Ajusta la imagen al tamaño del viewport */
+  background-position: center; /* Centra la imagen */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+}
+
